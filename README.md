@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, It's Abu Noman Md. Sakib</h1>
-<h3 align="center">Software Developer @Red.Digital Limited | CS Graduate | Reseacher</h3>
+<h3 align="center">Software Developer @Red.Digital Limited | CS Graduate | Researcher</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anmspro&label=Profile%20views&color=0e75b6&style=flat" alt="muhiminosim" /> </p>
 
