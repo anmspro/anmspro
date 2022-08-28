@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, It's Abu Noman Md. Sakib</h1>
 <h3 align="center">Software Developer @Red.Digital Limited | CS Graduate | Researcher</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=anmspro&label=Profile%20views&color=0e75b6&style=flat" alt="muhiminosim" /> </p>
-
-<p align="left"> <!-- <a href="https://twitter.com/muhiminulosim" target="blank"><img src="https://img.shields.io/twitter/follow/muhiminulosim?logo=twitter&style=for-the-badge" alt="muhiminulosim" /></a> --!> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=anmspro&label=Profile%20views&color=0e75b6&style=flat" alt="anmspro" /> </p>
 
 - 🔭 I have graduated from [Khulna University of Engineering & Technology](kuet.ac.bd) doing my major in Computer Science and Engineering
 
