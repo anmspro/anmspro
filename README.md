@@ -36,10 +36,13 @@
 
 
 [![Google Scholar](https://img.shields.io/static/v1?style=flat-square&message=Google+Scholar&color=4285F4&logo=Google+Scholar&logoColor=FFFFFF&link=https://scholar.google.se/citations?hl=en&pli=1&user=8lxft0QAAAAJ&label=sakib)](https://scholar.google.se/citations?hl=en&pli=1&user=8lxft0QAAAAJ)
+[![LinkedIn Badge](https://img.shields.io/static/v1?style=flat-square&message=LinkedIn&color=E4405F&logo=linkedin&logoColor=FFFFFF&link=https://linkedin.com/in/anmspro/&label=anmspro)](https://www.linkedin.com/in/anmspro/)
 [![Instagram Badge](https://img.shields.io/static/v1?style=flat-square&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&link=https://instagram.com/anmspro/&label=anmspro)](https://www.instagram.com/anmspro/)
 [![Youtube Badge](https://img.shields.io/static/v1?style=flat-square&message=YouTube&color=FF0000&logo=YouTube&logoColor=FFFFFF&link=https://www.youtube.com/@anmspro&label=anmspro)](youtube.com/@anmspro)
+[![Facebook Badge](https://img.shields.io/static/v1?style=flat-square&message=Facebook&color=FF0000&logo=Facebook&logoColor=FFFFFF&link=https://fb.com/abunomanmd.sakib&label=Abu+Noman+Md+Sakib)](https://fb.com/abunomanmd.sakib)
 [![Medium Badge](https://img.shields.io/static/v1?style=flat-square&message=Medium&color=000000&logo=Medium&logoColor=FFFFFF&link=https://medium.com/@anmspro/&label=@anmspro)](https://medium.com/@anmspro)
-[![kaggle](https://img.shields.io/static/v1?style=flat-square&message=Kaggle&color=4285F4&logo=Google+Scholar&logoColor=FFFFFF&link=https://www.kaggle.com/anmspro&label=anmspro)](https://www.kaggle.com/anmspro)
+[![StackOverFlow Badge](https://img.shields.io/static/v1?style=flat-square&message=StackOverFlow&color=000000&logo=StackOverFlow&logoColor=FFFFFF&link=https://stackoverflow.com/users/7810686&label=@anmspro)](https://stackoverflow.com/users/7810686)
+[![kaggle](https://img.shields.io/static/v1?style=flat-square&message=Kaggle&color=4285F4&logo=Kaggle&logoColor=FFFFFF&link=https://www.kaggle.com/anmspro&label=anmspro)](https://www.kaggle.com/anmspro)
 
 [![Codechef](https://img.shields.io/static/v1?style=flat-square&message=CodeChef&color=5B4638&logo=CodeChef&logoColor=FFFFFF&link=https://www.codechef.com/users/nabil1997&label=nabil1997)](https://www.codechef.com/users/nabil1997)
 [![Hackerrank](https://img.shields.io/static/v1?style=flat-square&message=HackerRank&color=222222&logo=HackerRank&logoColor=00EA64&label=Furcifer&link=https://www.hackerrank.com/Furcifer?hr_r=1)](https://www.hackerrank.com/Furcifer?hr_r=1)
