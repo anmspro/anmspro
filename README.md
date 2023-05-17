@@ -27,7 +27,7 @@
 <a href="https://www.codechef.com/users/anms_pro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anms_pro" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/anms_pro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anms_pro" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/anms_pro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="anms_pro" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anms_pro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anms_pro" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/anmspro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anms_pro" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@anms_pro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@anms_pro" height="30" width="40" /></a>
 </p>
 
@@ -43,12 +43,10 @@
 [![Medium Badge](https://img.shields.io/static/v1?style=flat-square&message=Medium&color=000000&logo=Medium&logoColor=FFFFFF&link=https://medium.com/@anmspro/&label=@anmspro)](https://medium.com/@anmspro)
 [![StackOverFlow Badge](https://img.shields.io/static/v1?style=flat-square&message=StackOverFlow&color=000000&logo=StackOverFlow&logoColor=FFFFFF&link=https://stackoverflow.com/users/7810686&label=@anmspro)](https://stackoverflow.com/users/7810686)
 [![kaggle](https://img.shields.io/static/v1?style=flat-square&message=Kaggle&color=4285F4&logo=Kaggle&logoColor=FFFFFF&link=https://www.kaggle.com/anmspro&label=anmspro)](https://www.kaggle.com/anmspro)
-
-[![Codechef](https://img.shields.io/static/v1?style=flat-square&message=CodeChef&color=5B4638&logo=CodeChef&logoColor=FFFFFF&link=https://www.codechef.com/users/nabil1997&label=nabil1997)](https://www.codechef.com/users/nabil1997)
-[![Hackerrank](https://img.shields.io/static/v1?style=flat-square&message=HackerRank&color=222222&logo=HackerRank&logoColor=00EA64&label=Furcifer&link=https://www.hackerrank.com/Furcifer?hr_r=1)](https://www.hackerrank.com/Furcifer?hr_r=1)
-[![LeetCode](https://img.shields.io/static/v1?style=flat-square&message=LeetCode&color=222222&logo=LeetCode&logoColor=FFA116&label=zabiralnabil&link=https://leetcode.com/zabiralnabil/)](https://leetcode.com/zabiralnabil/)
-[![ACM](https://img.shields.io/static/v1?style=flat-square&message=ACM&color=0085CA&logo=ACM&logoColor=FFFFFF&label=zabir&link=https://icpc.global/ICPCID/BIKBO2UHPKON)](https://icpc.global/ICPCID/BIKBO2UHPKON)
-
+[![LeetCode](https://img.shields.io/static/v1?style=flat-square&message=LeetCode&color=222222&logo=LeetCode&logoColor=FFA116&label=anmspro&link=https://www.leetcode.com/anmspro)](https://leetcode.com/anmspro/)
+[![Codechef](https://img.shields.io/static/v1?style=flat-square&message=CodeChef&color=5B4638&logo=CodeChef&logoColor=FFFFFF&link=https://www.codechef.com/users/anms_pro&label=anms_pro)](https://www.codechef.com/users/anms_pro)
+[![Codeforces](https://img.shields.io/static/v1?style=flat-square&message=Codeforces&color=5B4638&logo=Codeforces&logoColor=FFFFFF&link=https://www.codeforces.com/anms_pro&label=anms_pro)](https://www.codeforces.com/anms_pro)
+[![Hackerrank](https://img.shields.io/static/v1?style=flat-square&message=HackerRank&color=222222&logo=HackerRank&logoColor=00EA64&label=anmspro&link=https://www.hackerrank.com/anmspro?hr_r=1)](https://www.hackerrank.com/anmspro?hr_r=1)
 
 <div align="center">
 
