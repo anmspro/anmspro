@@ -45,7 +45,7 @@
 [![kaggle](https://img.shields.io/static/v1?style=flat-square&message=Kaggle&color=4285F4&logo=Kaggle&logoColor=FFFFFF&link=https://www.kaggle.com/anmspro&label=anmspro)](https://www.kaggle.com/anmspro)
 [![LeetCode](https://img.shields.io/static/v1?style=flat-square&message=LeetCode&color=222222&logo=LeetCode&logoColor=FFA116&label=anmspro&link=https://www.leetcode.com/anmspro)](https://leetcode.com/anmspro/)
 [![Codechef](https://img.shields.io/static/v1?style=flat-square&message=CodeChef&color=5B4638&logo=CodeChef&logoColor=FFFFFF&link=https://www.codechef.com/users/anms_pro&label=anms_pro)](https://www.codechef.com/users/anms_pro)
-[![Codeforces](https://img.shields.io/static/v1?style=flat-square&message=Codeforces&color=5B4638&logo=Codeforces&logoColor=FFFFFF&link=https://www.codeforces.com/anms_pro&label=anms_pro)](https://www.codeforces.com/anms_pro)
+[![Codeforces](https://img.shields.io/static/v1?style=flat-square&message=Codeforces&color=5B4638&logo=Codeforces&logoColor=FFFFFF&link=https://codeforces.com/profile/anms_pro&label=anms_pro)](https://codeforces.com/profile/anms_pro)
 [![Hackerrank](https://img.shields.io/static/v1?style=flat-square&message=HackerRank&color=222222&logo=HackerRank&logoColor=00EA64&label=anmspro&link=https://www.hackerrank.com/anmspro?hr_r=1)](https://www.hackerrank.com/anmspro?hr_r=1)
 
 <div align="center">
