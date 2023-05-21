@@ -54,7 +54,6 @@
 
 ## ⚡ Technologies
 
-
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
