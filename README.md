@@ -31,9 +31,7 @@
 <a href="https://www.hackerearth.com/@anms_pro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@anms_pro" height="30" width="40" /></a>
 </p>
 
-
 <!-- ## :mag_right: Find me
-
 
 [![Google Scholar](https://img.shields.io/static/v1?style=flat-square&message=Google+Scholar&color=4285F4&logo=Google+Scholar&logoColor=FFFFFF&link=https://scholar.google.se/citations?hl=en&pli=1&user=8lxft0QAAAAJ&label=sakib)](https://scholar.google.se/citations?hl=en&pli=1&user=8lxft0QAAAAJ)
 [![LinkedIn Badge](https://img.shields.io/static/v1?style=flat-square&message=LinkedIn&color=E4405F&logo=linkedin&logoColor=FFFFFF&link=https://linkedin.com/in/anmspro/&label=anmspro)](https://www.linkedin.com/in/anmspro/)
