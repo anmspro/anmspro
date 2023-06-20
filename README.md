@@ -7,6 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [github.com/anmspro](https://github.com/anmspro)
 
+- 👨‍💻 Find all of my publications at [Google Scholar](https://scholar.google.com/citations?user=8lxft0QAAAAJ)
+
 - 💬 Ask me about **Full Stack Development | Machine Learning | Deep Learning | Computer Vision**
 
 - 📫 How to reach me: **abunomanmd.sakib@gmail.com**
