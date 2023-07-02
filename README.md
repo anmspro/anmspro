@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, It's Abu Noman Md. Sakib</h1>
 <h3 align="center">Software Developer @Red.Digital Limited | CS Graduate | Researcher</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=anmspro&label=Profile%20views&color=0e75b6&style=flat" alt="anmspro" /> </p>
-
-<!--
 <div align="center">
  <a style="text-decoration: none" href="https://anmspro.github.io">anmspro.github.io</a> 
 </div>
--->
 
 - 🔭 I have graduated from [Khulna University of Engineering & Technology](kuet.ac.bd) doing my major in Computer Science and Engineering
 
@@ -66,6 +62,7 @@
 
 #
 <details>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=anmspro&label=Profile%20views&color=0e75b6&style=flat" alt="anmspro" /> </p>
 <summary>
    Some of my Github Public Stats :octocat:
 </summary><br>
