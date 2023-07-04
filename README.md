@@ -5,7 +5,7 @@
  <a style="text-decoration: none" href="https://anmspro.github.io">anmspro.github.io</a> 
 </div>
 
-- 🔭 I have graduated from [Khulna University of Engineering & Technology](kuet.ac.bd) doing my major in Computer Science and Engineering
+- 🔭 I have graduated from [Khulna University of Engineering & Technology](kuet.ac.bd) doing my major in Computer Science and Engineering.
 
 - 👨‍💻 All of my projects are available at [github.com/anmspro](https://github.com/anmspro)
 
