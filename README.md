@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, It's Abu Noman Md. Sakib</h1>
-<h3 align="center">Software Developer @Red.Digital Limited | CS Graduate | Researcher</h3>
+<h3 align="center">Software Engineer @Red.Digital Limited | CS Graduate | Researcher</h3>
 
 <div align="center">
  <a style="text-decoration: none" href="https://anmspro.github.io">anmspro.github.io</a> 
@@ -7,9 +7,9 @@
 
 - 🔭 I have graduated from [Khulna University of Engineering & Technology](kuet.ac.bd) doing my major in Computer Science and Engineering.
 
-- 👨‍💻 All of my projects are available at [github.com/anmspro](https://github.com/anmspro)
+- 👨‍💻 All of my projects are available at [github.com/anmspro](https://github.com/anmspro).
 
-- 👨‍💻 Find all of my publications at [Google Scholar](https://scholar.google.com/citations?user=8lxft0QAAAAJ)
+- 👨‍💻 Find all of my publications at [Google Scholar](https://scholar.google.com/citations?user=8lxft0QAAAAJ).
 
 - 💬 Ask me about **Full Stack Development | Machine Learning | Deep Learning | Computer Vision**
 
