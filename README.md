@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, It's Abu Noman Md. Sakib</h1>
-<h3 align="center">Software Engineer | CS Graduate | Researcher</h3>
+<h3 align="center">Graduate Teaching Assistant | CS PhD @UTSA | Researcher</h3>
 <!--
 <div align="center">
  <a style="text-decoration: none" href="https://anmspro.github.io">anmspro.github.io</a> 
