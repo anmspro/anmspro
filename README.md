@@ -12,7 +12,7 @@
 
 - 👨‍💻 Find all of my publications at [Google Scholar](https://scholar.google.com/citations?user=8lxft0QAAAAJ).
 
-- 💬 Ask me about **Full Stack Development | Computer Vision | Deep Learning | Machine Learning**
+- 💬 Ask me about **Explainable AI | Trustworthy Machine Learning | Computer Vision | Deep Learning**
 
 - 📫 How to reach me: **abunomanmd.sakib@gmail.com**
 
